@@ -1,0 +1,21 @@
+# 🃏 Blackjack Game (Python)
+
+A simple Python Blackjack game played in the terminal against the computer. The game follows classic Blackjack rules, including Ace adjustments, dealer logic, and instant Blackjack detection. ASCII art is included for a fun experience.
+
+---
+
+## 🚀 Features
+- Deal random cards for both player and computer  
+- Handles Aces (11 → 1 if score goes over 21)  
+- Detects Blackjack automatically  
+- Dealer hits until reaching 17+  
+- Compare results and declare winner  
+- Replay multiple rounds with simple controls  
+- ASCII art logo for visuals  
+
+---
+
+## 📂 Files
+- **blackjack.py** → Main game logic  
+- **art.py** → ASCII art logo  
+
